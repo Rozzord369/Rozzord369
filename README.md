@@ -2,7 +2,7 @@
 - 👀 I’m interested in rocket satellites and tech
 - 🌱 I’m currently learning basic programming 
 - 💞️ I’m looking to collaborate on space tech
-- 📫 How to reach me lumeninf.industria@gmail.com
+- 📫 How to reach me lucty86@gmail.com
 
 <!---
 Rozzord369/Rozzord369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
